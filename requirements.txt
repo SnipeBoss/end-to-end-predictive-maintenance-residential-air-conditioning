@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+holidays
+ipykernel
+scikit-learn
+dill
+
+-e .
