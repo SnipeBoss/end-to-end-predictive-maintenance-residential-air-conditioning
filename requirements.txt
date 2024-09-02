@@ -1,9 +1,16 @@
 pandas
+pandas-profiling
 matplotlib
 seaborn
 holidays
 ipykernel
 scikit-learn
 dill
-
+statsmodels
+plotly-express
+nbformat==4.2.0
+fastapi
+streamlit
+streamlit_option_menu
+memory_profiler
 -e .
